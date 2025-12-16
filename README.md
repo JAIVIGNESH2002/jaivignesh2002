@@ -6,9 +6,8 @@
 
 
 ## 🚀 About Me
-Hello there, I am a Java programmer and an android developer. I 
-am more into developing new things and in contributing to open sources
-and I am open to contributions, so feel free to open pull requests
+Software Engineer focused on building scalable platforms, automation, and real-world products.
+Background in cloud infrastructure (AWS, Terraform) with hands-on experience in backend systems, real-time apps, and AI-powered tools.
 
 
 
