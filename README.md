@@ -20,13 +20,19 @@ Background in cloud infrastructure (AWS, Terraform) with hands-on experience in 
 
 
 ## 🛠 Skills
-Languages: TypeScript, JavaScript, Python, Bash, PowerShell
-Web: React, Next.js, REST APIs, WebSockets
-Cloud & Infra: AWS (EC2, S3, RDS, Route53, SES, IAM), Terraform, Ansible
-Databases: PostgreSQL (Supabase), MSSQL, MongoDB
-Automation & DevOps: Infrastructure automation, cost optimization, CI/CD basics, Git, Linux
-AI Systems: LLM integrations, preference-aware workflows
-Monitoring: Site24x7, log analysis, RCA
+Languages: TypeScript, JavaScript, Python, Bash, PowerShell.
+
+Web: React, Next.js, REST APIs, WebSockets.
+
+Cloud & Infra: AWS (EC2, S3, RDS, Route53, SES, IAM), Terraform, Ansible.
+
+Databases: PostgreSQL (Supabase), MSSQL, MongoDB.
+
+Automation & DevOps: Infrastructure automation, cost optimization, CI/CD basics, Git, Linux.
+
+AI Systems: LLM integrations, preference-aware workflows.
+
+Monitoring: Site24x7, log analysis, RCA.
 
 
               
